@@ -1,0 +1,199 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.container {
+    width: 1027px;
+    margin: 0px auto;
+  }
+
+  
+ul li {
+    display: inline-block;
+    margin-left: 35px;
+    font-size: 25px;
+    background: #fb5200;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 5px;
+  }
+  .logo img {
+    float: left;
+    margin-right: 245px;
+  }
+  header {
+    padding: 35px 0px;
+  }
+
+  #backgroundImage{
+    background: url(../Image/BBQ-banner-2-DealerInspire-FullThrottle-Copy.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    padding: 75px 0px;
+    }
+
+  .backgroundContent h1 {
+    color: #fb5200;
+    font-size: 43px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.backgroundContent {
+    width: 455px;
+    background: #5454548f;
+    padding: 45px 75px;
+    text-align: center;
+    margin: auto;
+    border-radius: 23px;
+}
+
+.backgroundContent p {
+    color: white;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 5px;
+}
+
+.backgroundContent button {
+    background: #fb5200;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    font-weight: 700;
+    border: none;
+    margin-top: 45px;
+    border-radius: 15px;
+}
+button:hover {
+    background: #00f6fbb3;
+    color: black;
+}
+.viewRecipy {
+    width: 91%;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    line-height: 35px;
+    font-size: 20px;
+}
+
+.viewRecipy h2 {
+    font-size: 35px;
+    font-family: sans-serif;
+    margin-bottom: 15px;
+}
+
+.viewRecipy p {
+    font-size: 23px;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+}
+
+.viewRecipy button{
+    background: #fb5200;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    font-weight: 700;
+    border: none;
+    margin-top: 25px;
+    border-radius: 15px;
+}
+
+.viewRecipy button:hover{
+    background: #00f6fbb3;
+    color: black;
+}
+
+.serviceContent h2 {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    font-family: sans-serif;
+    margin-top: 50px;
+    padding: 15px 0px;
+    font-size: 28px;
+}
+.image {
+    width: 303px;
+    text-align: center;
+    font-size: 19px;
+    letter-spacing: 2px;
+    line-height: 35px;
+    padding: 0px 20px;
+    margin-top: 20px;
+    float: left;
+}
+
+.image button{
+
+    background: #fb5200;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    font-weight: 700;
+    border: none;
+    margin-top: 25px;
+    border-radius: 8px;
+}
+.position {
+    margin: 0px 170px;
+}
+
+.container hr {
+    border: 3px solid #fb5200;
+    margin-top: 55px;
+}
+.SocialIcon {
+    margin-top: 490px;
+    text-align: center;
+    padding: 50px 0px;
+}
+.SocialIcon h2 {
+    font-family: sans-serif;
+    margin-bottom: 15px;
+    font-size: 27px;
+    color: white;
+}
+
+.SocialIcon i {
+    font-size: 45px;
+    color: white;
+    letter-spacing: 10px;
+    margin-bottom: 50px;
+}
+
+.SocialIcon h4 {
+    font-size: 25px;
+    color: white;
+    font-family: sans-serif;
+    margin-bottom: 15px;
+}
+
+.SocialIcon p {
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+}
+section#social {
+    background: #fb5200;
+}
+.container h5 {
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 150px;
+    padding: 25px 0px;
+    color: #000000ab;
+}
+.image button:hover {
+    background: deepskyblue;
+    color: black;
+}
